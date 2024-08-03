@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Projects Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs Repo": {
+    "message": "Docs Repo",
+    "description": "Navbar item with label Docs Repo"
+  }
+}
