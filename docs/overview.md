@@ -24,7 +24,7 @@ Projects is a community plugin for [Obsidian.md](https://obsidian.md) letting yo
 
 ## Quick start
 
-1. [Install Projects plugin](./getting-started/install)
+1. [Install Projects plugin](./getting-started/installation)
 2. [Open Projects pane](./getting-started/open) via ribbon icon / command palatte
 3. (Optional) Try a [demo project](./demo). You will have chance to try this when you open the Projects pane, if you haven't create any project yet
 4. [Create a new project](./project/create)
