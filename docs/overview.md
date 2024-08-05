@@ -32,30 +32,43 @@ Projects is a community plugin for [Obsidian.md](https://obsidian.md) letting yo
 ## Next steps
 
 - Configure a project
-- Configure a view
+- Configure views
 	- Set up filtering
+- Plugin-level settings
 - Advanced topics
+	- How Projects keeps your vault clean? (Introduction on `data.json`)
+		- Then, sync and archive issues should be adressed
 	- Field types
 	- Automation / integration (templater, dataview, full-calendar)
+	- Rich-text
+	- Use with advanced URI
 
 ## Showcases
 
-### FAQ
+- Contents provider (Youtuber, blogger)
+- Grad school admissions
+- Preparing for exams
+
+## FAQ
 
 - Where my project config goes? How to sync my projects between devices?
 - How to setup board columns independent of notes? (before 1.17.2)
-
-### Community help
+- Mobile support
+## Community help
 
 - Join [GitHub Discussions](https://github.com/marcusolsson/obsidian-projects/discussions)
 - Showcases
 - Posts
 - Issues
 
-### Contribute
+## Contribute
 
 - Contribute
+- Contributing guidelines
 - Translate
+	- Add new language
+	- Report missing translations
+	- Maintain existing translations
 
 Find me via forum / forum-zh / discord, or just post to let other users know.
 Reddit redirect
