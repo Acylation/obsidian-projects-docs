@@ -1,3 +1,0 @@
-# Integrations
-
-Third-party views

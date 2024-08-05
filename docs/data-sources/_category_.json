@@ -1,8 +1,0 @@
-{
-    "label": "Data sources",
-    "position": 4,
-    "link": {
-        "type": "generated-index",
-        "description": "Configure which notes would be tracked in the project."
-    }
-}
