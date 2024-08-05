@@ -9,6 +9,7 @@ const config: Config = {
 
   url: 'https://acylation.github.io/',
   baseUrl: '/obsidian-projects-docs',
+  trailingSlash: false,
 
   organizationName: 'Acylation',
   projectName: 'obsidian-projects-docs',
