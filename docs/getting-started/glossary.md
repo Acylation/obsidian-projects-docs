@@ -1,17 +1,23 @@
 ---
 sidebar_position: 10
 ---
-
 # Glossary
 
 ## User Interface
 
 ### Views
 
-- Table
-- Board
-- Calendar
-- Gallery
+#### Table
+- Row
+- Column
+
+#### Board
+
+
+#### Calendar
+
+#### Gallery
+
 
 Row - Record / Note  
 Column - Field  
